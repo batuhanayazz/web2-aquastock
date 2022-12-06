@@ -28,5 +28,21 @@ Link to AquaStock Github Pages repository: [AquaStock Github Page](https://githu
       - url-loader
     - webpack-cli
 
+## Back-End
+- ### Github repository
+[AquaStock Back-End Repository](https://github.com/EHB-MCT/web-2-backend-22-23-batuhanayazz)
+- ### REST API
+[AquaStock Back-End](https://web-2-backend-22-23-batuhanayazz.onrender.com/info.html)
+
+- ### Packages
+  - body-parser
+  - cors
+  - dotenv
+  - express
+  - mongodb
+  - mongoose
+  - nodemon
+
+
 ### REFERENCE
 Lecturer Mike Derycke: [Youtube Videos](https://www.youtube.com/@MikeDerycke)
