@@ -1,0 +1,1 @@
+(()=>{const e=document.querySelector("body"),t=e.querySelector("nav"),c=e.querySelector(".toggle"),o=e.querySelector(".toggle-switch"),r=e.querySelector(".mode-text");c.addEventListener("click",(()=>{t.classList.toggle("close")})),o.addEventListener("click",(()=>{e.classList.toggle("dark"),e.classList.contains("dark")?r.innerText="Light mode":r.innerText="Dark mode"}))})();
