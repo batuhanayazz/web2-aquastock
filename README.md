@@ -1,4 +1,4 @@
-# WEB 2 WERKSTUK AQUASTOCK FRONTEND
+# WEB 2 WERKSTUK AQUASTOCK
 ## Introduction
 For my WEB II course, i created a stock system application for aquarium wholesale and retail sales. On this website, retailers must first create an account or login to see the fish in the catalog. Then they can select the fish in their own shop and write the quantities, not only write but also delete them.
 
