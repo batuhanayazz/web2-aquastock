@@ -45,4 +45,11 @@ Link to AquaStock Github Pages repository: [AquaStock Github Page](https://githu
 
 
 ### REFERENCE
-Lecturer Mike Derycke: [Youtube Videos](https://www.youtube.com/@MikeDerycke)
+- Lecturer Mike Derycke: [Youtube Videos](https://www.youtube.com/@MikeDerycke)
+- Lecturer Maaike Beuten
+- [Navigation](https://www.youtube.com/watch?v=puOJox9p_YE)
+- [Modal](https://www.youtube.com/watch?v=MBaw_6cPmAw)
+- [Search Function](https://www.youtube.com/watch?v=wxz5vJ1BWrc)
+- [Fetch Data](https://www.youtube.com/watch?v=8JcCdp2Y4Q4)
+- [Add property from one array into another array with the same key](https://stackoverflow.com/questions/52668966/add-property-from-one-array-into-another-array-with-the-same-key)
+- [Object Assign](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
