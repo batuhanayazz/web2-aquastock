@@ -1,6 +1,10 @@
-# WEB 2 WERKSTUK AQUASTOCK
+# AQUASTOCK
 ## Introduction
-For my WEB II course, i created a stock system application for aquarium wholesale and retail sales. On this website, retailers must first create an account or login to see the fish in the catalog. Then they can select the fish in their own shop and write the quantities, not only write but also delete them.
+Welcome to AquaStock, the website for aquarium store owners to keep track of their inventory and manage their store's stock.
+
+To become a member, simply on the homepage follow under "Become a Member" prompts to create an account. Once you are a member, you can log in and access the fish catalogs.
+
+Once logged in, you can browse through the catalogs and select the fish that you have in your store. These fish will be added to your stock page, where you can update the quantity of each fish and remove any that have run out.
 
 ## Website Wireframe and Style Guide
 
